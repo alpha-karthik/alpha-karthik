@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on OpenSource ASIC Design flows.
 - 💬 Ask me about VLSI
 - 📫 How to reach me: 
-  - [![Linkedin Profile](/photo/linkedin.png)](https://www.linkedin.com/in/kollukarthikeya/)  
+  - [Linkedin](https://www.linkedin.com/in/kollukarthikeya/)  
   - 📧  [Gmail](mailto:imkarthikeyakollu@gmail.com)
 
 
