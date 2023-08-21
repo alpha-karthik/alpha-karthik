@@ -17,5 +17,17 @@
 - 👯 I’m looking to collaborate on OpenSource ASIC Design flows.
 - 💬 Ask me about VLSI
 
+<details open>
+<summary><h3>📘Design Verification Projects</h3></summary>
+  
+
+[![RISCV Repository](https://img.shields.io/badge/GitHub-RISCV-blue?style=plastic&logo=github&logoColor=red&labelColor=indigo)](https://github.com/alpha-karthik/RISCV) 
+  
+[![UART Repository](https://img.shields.io/badge/GitHub-UART-blue?style=plastic&logo=github&logoColor=red&labelColor=indigo)](https://github.com/alpha-karthik/UART)
+
+[![APB AHB Bridge ](https://img.shields.io/badge/GitHub-APB_AHB_Bridge-blue?style=plastic&logo=github&logoColor=red&labelColor=indigo)](https://github.com/alpha-karthik/AHB-APB-Bridge)
+
+
+
 
 
