@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=100&color=84F7D7&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=Karthikeya+Kollu;+Aspiring+VLSI+Design+Verification+Engineer+%7C+AI+Enthusiast+;Quantum+Computing+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=84F7D7&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=Karthikeya+Kollu;+Aspiring+VLSI+Design+Verification+Engineer+%7C+AI+Enthusiast+;Quantum+Computing+Enthusiast)](https://git.io/typing-svg)
 <p align="center"><a href="https://www.linkedin.com/in/kollukarthikeya/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
