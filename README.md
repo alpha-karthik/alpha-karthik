@@ -19,15 +19,11 @@
 
 <details open>
 <summary><h3>📘Design Verification Projects</h3></summary>
-  
-
-[![RISCV Repository](https://img.shields.io/badge/GitHub-RISCV-blue?style=plastic&logo=github&logoColor=red&labelColor=indigo)](https://github.com/alpha-karthik/RISCV) 
-  
-[![UART Repository](https://img.shields.io/badge/GitHub-UART-blue?style=plastic&logo=github&logoColor=red&labelColor=indigo)](https://github.com/alpha-karthik/UART)
-
-[![APB AHB Bridge ](https://img.shields.io/badge/GitHub-APB_AHB_Bridge-blue?style=plastic&logo=github&logoColor=red&labelColor=indigo)](https://github.com/alpha-karthik/AHB-APB-Bridge)
 
 
 
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha-karthik&repo=RISCV&theme=radical&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/alpha-karthik/RISCV)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha-karthik&repo=UART&theme=radical&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/alpha-karthik/UART)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alpha-karthik&repo=AHB-APB-Bridge&theme=radical&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866)](https://github.com/alpha-karthik/AHB-APB-Bridge)
